@@ -1,0 +1,14 @@
+{
+  "name": "honcho",
+  "version": "0.1.0",
+  "description": "A plugin based server utility platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Destin Moulton",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0"
+  }
+}
